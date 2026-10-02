@@ -1,0 +1,7 @@
+{
+  "name": "Vendora Shop POS",
+  "description": "High-velocity retail POS and predictive command center with 30% debt cap sentinel, live ledger flow, and instant debt settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
